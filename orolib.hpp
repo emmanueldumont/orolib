@@ -16,6 +16,7 @@ enum enCommand
     CMD_FIND,
     CMD_REMOVE,
     CMD_CLEAR,
+    CMD_REQUEST,
     LAST_CMD
 };
 
